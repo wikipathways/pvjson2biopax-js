@@ -27,6 +27,9 @@
     "url": "https://github.com/wikipathways/gpml2biopax-js/issues"
   },
   "homepage": "https://github.com/wikipathways/gpml2biopax-js#readme",
+  "dependencies": {
+    "gpml2pvjson": "git://github.com/wikipathways/gpml2pvjson-js.git#2.0.0-alpha3"
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-sequence": "^0.3.2",
