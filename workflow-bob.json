@@ -1,0 +1,18 @@
+{
+  "metadataFilePaths": "./bower.json, ./component.json, ./package.json",
+  "modernizrFeatureDetects": [
+    "inputtypes",
+    "svg",
+    "svg/asimg",
+    "svg/clippaths",
+    "svg/filters",
+    "svg/foreignobject",
+    "svg/inline",
+    "svg/smil"
+  ],
+  "integrations": [
+    "node",
+    "jquery",
+    "web-component"
+  ]
+}

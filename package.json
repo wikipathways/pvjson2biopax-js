@@ -1,0 +1,35 @@
+{
+  "name": "pvjson2biopax",
+  "version": "0.0.0",
+  "description": "Convert pvjson pathway data format to BioPAX format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikipathways/gpml2biopax-js.git"
+  },
+  "keywords": [
+    "pathway",
+    "biology",
+    "network",
+    "systems",
+    "biology",
+    "gpml",
+    "pvjson",
+    "pvjs",
+    "biopax"
+  ],
+  "author": "WikiPathways team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wikipathways/gpml2biopax-js/issues"
+  },
+  "homepage": "https://github.com/wikipathways/gpml2biopax-js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sequence": "^0.3.2",
+    "workflow-bob": "git+https://github.com/ariutta/workflow-bob.git"
+  }
+}
