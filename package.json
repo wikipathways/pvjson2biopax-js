@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/wikipathways/gpml2biopax-js#readme",
   "dependencies": {
+    "bridgedb": "git://github.com/bridgedb/bridgedbjs.git",
+    "btoa": "^1.1.2",
     "gpml2pvjson": "git://github.com/wikipathways/gpml2pvjson-js.git#2.0.0-alpha6",
     "jsonld": "^0.4.1",
     "lodash": "^3.10.1",
